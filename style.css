@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+body {
+    background-color: bisque;
+    border-style: double;
+    border-color: cadetblue;
+}
+
+h3 {
+    font-family: fantasy;
+    font-size: 45px;
+    font-weight: 1000;
+}
+
+p {
+    font-size: 25px;
+}
